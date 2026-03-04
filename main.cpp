@@ -1,6 +1,10 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <map>
+#include <thread>
 
-#include<iostream>
-#include<thread>
+
 using namespace std;
 
 void workerfunction()
